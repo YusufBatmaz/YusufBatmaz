@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I am a 3rd year student at İzmir Bakırçay University.</h3>
+<h3 align="center">I am a 4rd year student at İzmir Bakırçay University.</h3>
 
 - 🌱 I’m currently learning **Java, Spring Boot, React JS**
 
